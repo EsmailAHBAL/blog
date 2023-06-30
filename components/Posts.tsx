@@ -66,7 +66,7 @@ useEffect(() => {
     </div>
     </div>
     <div className="mt-10">
-      <p className="p-4 text-gray-600 line-clamp-2 ">{p.description}</p>
+      <p className="p-4 text-white line-clamp-2 ">{p.description}</p>
     </div>
     <div className="pr-2 text-gray-400 text-xs flex justify-end items-center gap-x-5 ">
     <p className="">{new Date(p._updatedAt).toLocaleDateString("en-Us",{year:"numeric",month:'long',day:"numeric"})}</p>
