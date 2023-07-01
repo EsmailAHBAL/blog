@@ -9,7 +9,7 @@ const Footer =() => {
       <div className="text-center">Pages - الصفحات</div>
      <div className="flex justify-end items-center  justify-center my-10 sm:pr-4">
       <div className="grid grid-cols-1 gap-y-4 md:grid-cols-5 gap-x-7 text-xs md:text-sm">
-       <Link href={`/`} className="">اتصل بنا </Link>
+       <Link href={`/contact`} className="">اتصل بنا </Link>
        <Link  href={`/terms`}  className="">شروط الاستخدام </Link>
        <Link href={`/privacy`}  className="">سياسة الخصوصية</Link>
        <Link href={`/about`}>من نحن ؟</Link>

@@ -1,6 +1,6 @@
 export default {
-  defaultTitle: 'Web Leaders - Ecommerce, Code Network, Affiliate, Simolife maroc , morrocco ',
-  defaultDescription: 'Stay updated with the latest trends in ecommerce, code network, affiliate marketing, and Simolife.',
+  defaultTitle: 'Web Leaders ',
+  defaultDescription: 'Stay updated with the latest trends in ecommerce, code network, affiliate marketing, and ...',
   defaultOpenGraphImage: {
     url: '/images/og-image.jpg',
     width: 1200,
@@ -10,8 +10,8 @@ export default {
   pages: [
     {
       path: '/',
-      title: 'Web Leaders - Ecommerce, Code Network, Affiliate, Simolife',
-      description: 'Stay updated with the latest trends in ecommerce, code network, affiliate marketing, and Simolife.',
+      title: 'Home page ',
+      description: 'Stay updated with the latest trends in ecommerce, code network, affiliate marketing, and ...',
       openGraphImage: {
         url: '/images/home-og-image.jpg',
         width: 1200,
@@ -22,13 +22,19 @@ export default {
     {
       path: '/about',
       title: 'About - Web Leaders',
-      description: 'Learn more about Web Leaders and our expertise in ecommerce, code network, affiliate marketing, and Simolife.',
+      description: 'Learn more about Web Leaders .',
     },
     {
-      path: '/blog',
-      title: 'Blog - Web Leaders',
-      description: 'Read our insightful articles on ecommerce, code network, affiliate marketing, and Simolife.',
+      path: '/terms',
+      title: 'Terms - Web Leaders',
+      description: 'Read our Terms ',
     },
+    {
+      path: '/privacy',
+      title: 'Privacy - Web Leaders',
+      description: 'Read our Privacy ',
+    },
+    
     // Add more pages and their SEO settings as needed
   ],
 };

@@ -23,7 +23,19 @@ class MyDocument extends Document {
                            <meta name="keywords" 
                            content="simolife, amine raghib, make money,youtub" />
 
+      <meta name="application-name" content='Web leaders' />
+      <meta name="apple-mobile-web-app-capable" content="yes" />
+      <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+      <meta name="apple-mobile-web-app-title" content='Web leaders' />
+      <meta name="format-detection" content="telephone=no" />
+      <meta name="mobile-web-app-capable" content="yes" />
 
+      <meta name="msapplication-config" content="none" />
+      <meta name="msapplication-TileColor" content="#FFFFFF" />
+      <meta name="msapplication-tap-highlight" content="yes" />
+
+      <meta name="msapplication-TileColor" content="#FFFFFF" />
+      <meta name="theme-color" content="#000000" />
           <Script
   strategy="lazyOnload"
   src={`https://www.googletagmanager.com/gtag/js?id=G-DVYVCV9LDT`}

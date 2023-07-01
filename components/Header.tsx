@@ -19,14 +19,14 @@ const Header = () => {
             <li><Link href={`/privacy`}>سياسة الخصوصية</Link></li>
           </ul>
         </li>
-        <li><a>اتصل بنا</a></li>
+        <li><Link href={`/contact`}>اتصل بنا</Link></li>
       </ul>
     </div>
     <a className="md:text-2xl text-sm md:pl-3">𝔀𝓮𝓫 𝓵𝓮𝓪𝓭𝓮𝓻𝓼</a>
   </div>
   <div className="navbar-center hidden lg:flex">
     <ul className="menu menu-horizontal px-1 ">
-      <li><a>اتصل بنا</a></li>
+    <li><Link href={`/contact`}>اتصل بنا</Link></li>
       <li tabIndex={0}>
         <details>
           <summary>المزيد من المعلومات</summary>
