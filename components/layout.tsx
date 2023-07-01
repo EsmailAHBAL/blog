@@ -3,7 +3,6 @@ import Header from "components/Header"
 import {Changa
 } from 'next/font/google'
 import Footer from "components/Footer"
-import SEOHead from "./SeoHead"
 
 const font = Changa({
   weight:'700',subsets:['latin']

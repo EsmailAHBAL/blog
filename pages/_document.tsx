@@ -14,6 +14,8 @@ class MyDocument extends Document {
       <Html>
         <Head>
           {/* Add custom meta tags, stylesheets, or other elements */}
+          <link rel="icon" href="/falcon.png" />
+
           <meta name="keywords" 
           content="web leaders, webleaders, maroc, morocco" />
         <meta name="keywords" 
@@ -55,7 +57,6 @@ class MyDocument extends Document {
         <body>
           <Main />
           <NextScript />
-          {/* Add custom scripts or other elements */}
         </body>
       </Html>
     );

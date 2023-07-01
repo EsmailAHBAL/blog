@@ -2,7 +2,7 @@ export default {
   defaultTitle: 'Web Leaders ',
   defaultDescription: 'Stay updated with the latest trends in ecommerce, code network, affiliate marketing, and ...',
   defaultOpenGraphImage: {
-    url: '/images/og-image.jpg',
+    url: '/falcon.png',
     width: 1200,
     height: 630,
     alt: 'Web Leaders',
@@ -13,7 +13,7 @@ export default {
       title: 'Home page ',
       description: 'Stay updated with the latest trends in ecommerce, code network, affiliate marketing, and ...',
       openGraphImage: {
-        url: '/images/home-og-image.jpg',
+        url: '/falcon.png',
         width: 1200,
         height: 630,
         alt: 'Web Leaders',
