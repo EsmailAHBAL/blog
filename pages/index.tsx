@@ -72,7 +72,6 @@ const [numberOfPage,setNumberOfPage]=useState<number>(0)
    return null;
  }
  function postLenght(n:number){
-  console.log(n);
   setNumberOfPage(n)
  }
   return (
