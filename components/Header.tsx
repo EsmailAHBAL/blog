@@ -41,8 +41,8 @@ const Header = () => {
     </ul>
   </div>
   <div className="navbar-end hidden sm:flex ">
-    <a className="btn bg-white rounded-sm border-black border-4 mr-3">
-     <span className="text-yellow-300">COD </span> NETWORK <span className="text-[5px]">blog</span>
+    <a className="btn bg-gray-50 rounded-sm border-black border-4 mr-3">
+     <span className="text-yellow-300">الويب </span> استكشف عالم  <span className="text-[5px]">blog</span>
     </a>
   </div>
 </div>
