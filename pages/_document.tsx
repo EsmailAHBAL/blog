@@ -14,6 +14,16 @@ class MyDocument extends Document {
       <Html>
         <Head>
           {/* Add custom meta tags, stylesheets, or other elements */}
+          <meta name="keywords" 
+          content="web leaders, webleaders, maroc, morocco" />
+        <meta name="keywords" 
+          content="cod newtwok, cod afirca,cod partner" />
+                  <meta name="keywords"
+                   content="affiliate, ecommerce, coding, Facebook ads" />
+                           <meta name="keywords" 
+                           content="simolife, amine raghib, make money,youtub" />
+
+
           <Script
   strategy="lazyOnload"
   src={`https://www.googletagmanager.com/gtag/js?id=G-DVYVCV9LDT`}
@@ -24,7 +34,7 @@ class MyDocument extends Document {
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
-    gtag('config', 'G-DVYVCV9LDT', {
+    gtag('config', 'G-DVYVCV9LDT ', {
       page_path: window.location.pathname,
     });
         `}
