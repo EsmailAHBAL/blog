@@ -15,6 +15,7 @@ class MyDocument extends Document {
         <Head>
           {/* Add custom meta tags, stylesheets, or other elements */}
           <link rel="icon" href="/falcon.png" />
+          
 
           <meta name="keywords" 
           content="web leaders, webleaders, maroc, morocco" />
@@ -53,6 +54,8 @@ class MyDocument extends Document {
     });
         `}
 </Script>
+          <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6468340789566102"
+     crossorigin="anonymous"></script>
         </Head>
         <body>
           <Main />
