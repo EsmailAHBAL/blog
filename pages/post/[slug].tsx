@@ -51,7 +51,7 @@ export const getStaticPaths = async () => {
   }`
 
  const post : Post =await client.fetch(query,{slug})
-  return { props: { post } , revalidate: 60,}
+  return { props: { post } , revalidate: 40,}
   }
     
  
