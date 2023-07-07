@@ -36,7 +36,7 @@ export const getStaticPaths = async () => {
   
   return {
     paths,
-    fallback: "unstable_blocking",
+    fallback: true,
   }
 }
   
